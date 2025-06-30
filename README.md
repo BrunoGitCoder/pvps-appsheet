@@ -112,9 +112,58 @@ ean,codigo,nome,img
 
 ---
 
-## 📸 Prints do Sistema
+## Prints do Sistema
 
-> Em breve: imagens demonstrativas com a interface do AppSheet e visualização dos alertas.
+### 1. Início do aplicativo no celular
+Visualização da tela principal do AppSheet, onde o usuário inicia o controle de validade dos produtos cadastrados com suas respectivas datas de validade e alertas visuais aplicados.
+
+![Tela inicial do app](prints/produtos-escaneados.gif)
+
+---
+
+### 2. Lista de produtos registrados
+Exibição dos produtos já cadastrados com os seus dados já salvos.
+
+![Lista de produtos](prints/lista-de-produtos.gif)
+
+---
+
+### 3. Tela de Cadastro de Produto
+Preenchimento dos campos após o escaneamento do código de barras.
+- Formulário preenchido:
+![Formulário de cadastro](prints/formulario-registro.jpeg)
+
+- Scanner de código de barras ativo:
+![Scanner de código](prints/scan.jpeg)
+
+---
+
+### 4. Informações do produto registrado
+Visualização individual dos dados de um produto após o cadastro: código, validade, nome e status.
+
+![Informações do produto registrado](prints/produto-registrado.gif)
+
+---
+
+### 5. Planilha com produtos escaneados
+Planilha integrada ao App, atualizada automaticamente com cada item registrado no app.
+
+![Planilha dos produtos escaneados](prints/planilha-produtos-escaneados.png)
+
+---
+
+### 6. Resumo geral na aba inicial da planilha
+Visão consolidada e organizada de todos os itens escaneados, ideal para conferências rápidas.
+
+![Resumo dos produtos escaneados](prints/planilha-resumo-escaneado.png)
+
+---
+
+### 7. Saída para impressão do PVPS físico
+Versão impressa da listagem com EAN, imagem, nome, lote, data de validade e quantidade.
+
+![Resumo para impressão](prints/pvps-imp.png)
+
 
 ---
 
