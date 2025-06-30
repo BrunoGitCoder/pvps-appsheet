@@ -179,6 +179,7 @@ Com o uso do aplicativo, foi possível:
 - Eliminar erros manuais no cadastro de produtos ao integrar validações de campos obrigatórios (EAN, lote, validade e quantidade).
 - Organizar os dados coletados em planilhas automatizadas, com filtros dinâmicos e layout otimizado para impressão.
 - Facilitar o controle logístico e a tomada de decisão sobre produtos a serem priorizados na exposição ou remanejamento.
+- Agilizar o processo de baixa de produtos no sistema, com acesso claro e rápido às informações necessárias para o lançamento.
 - Promover uma rotina mais eficiente para colaboradores, com interface intuitiva e foco na usabilidade.
 
 Esses resultados demonstram o impacto positivo da digitalização no controle de produtos e reforçam a viabilidade do sistema em ambientes reais de trabalho, como farmácias, estoques e centros de distribuição.
