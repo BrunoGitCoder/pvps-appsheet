@@ -131,10 +131,14 @@ Exibição dos produtos já cadastrados com os seus dados já salvos.
 ### 3. Tela de Cadastro de Produto
 Preenchimento dos campos após o escaneamento do código de barras.
 - Formulário preenchido:
-![Formulário de cadastro](prints/formulario-registro.jpeg)
 
+<img src="prints/formulario-registro.jpeg" alt="Formulário de cadastro" width="400px"/>
+
+<br>
+ 
 - Scanner de código de barras ativo:
-![Scanner de código](prints/scan.jpeg)
+
+<img src="prints/scan.jpeg" alt="Scanner de código" width="400px"/>
 
 ---
 
@@ -164,6 +168,20 @@ Versão impressa da listagem com EAN, imagem, nome, lote, data de validade e qua
 
 ![Resumo para impressão](prints/pvps-imp.png)
 
+
+---
+
+## Resultados Obtidos
+
+Com o uso do aplicativo, foi possível:
+
+- Reduzir significativamente o tempo de registro de produtos com vencimento próximo, por meio do escaneamento automático de códigos de barras.
+- Eliminar erros manuais no cadastro de produtos ao integrar validações de campos obrigatórios (EAN, lote, validade e quantidade).
+- Organizar os dados coletados em planilhas automatizadas, com filtros dinâmicos e layout otimizado para impressão.
+- Facilitar o controle logístico e a tomada de decisão sobre produtos a serem priorizados na exposição ou remanejamento.
+- Promover uma rotina mais eficiente para colaboradores, com interface intuitiva e foco na usabilidade.
+
+Esses resultados demonstram o impacto positivo da digitalização no controle de produtos e reforçam a viabilidade do sistema em ambientes reais de trabalho, como farmácias, estoques e centros de distribuição.
 
 ---
 
