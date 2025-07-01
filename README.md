@@ -128,7 +128,7 @@ Essas 15 divergências ocorreram porque o produto retornado no site **não corre
 
 > 💡 O problema foi identificado durante os testes e uma possível solução — como iterar sobre todos os resultados retornados na busca — chegou a ser considerada para futuras versões. No entanto, como o projeto foi desenvolvido de forma voluntária e desvinculada da farmácia, essa melhoria foi descartada após o fim da colaboração.
 
-Essa validação de consistência demonstra que o script não apenas automatiza a raspagem, mas também aplica **lógica de control**
+Essa validação de consistência demonstra que o script não apenas automatiza a raspagem, mas também aplica lógica de controle de consistência de dados.
 
 ---
 
@@ -216,7 +216,6 @@ Esses resultados demonstram o impacto positivo da digitalização no controle de
  ┃ ┣ get_product_info.py         # Script de automação com Selenium
  ┃ ┣ produtos.json               # Saída estruturada com os dados extraídos
  ┃ ┗ produtos_formatado.txt      # Saída formatada para planilhas (CSV-like)
- ┣ 📄 requirements.txt           # Dependências do script Python
  ┣ 📄 requirements.txt        # Dependências do script Python
  ┗ 📄 README.md 
 ```
