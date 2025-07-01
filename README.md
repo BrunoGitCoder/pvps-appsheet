@@ -216,6 +216,24 @@ Esses resultados demonstram o impacto positivo da digitalização no controle de
  ┃ ┣ get_product_info.py         # Script de automação com Selenium
  ┃ ┣ produtos.json               # Saída estruturada com os dados extraídos
  ┃ ┗ produtos_formatado.txt      # Saída formatada para planilhas (CSV-like)
+ ┣ 📄 requirements.txt           # Dependências do script Python
  ┣ 📄 requirements.txt        # Dependências do script Python
  ┗ 📄 README.md 
 ```
+
+---
+
+> [!CAUTION]
+>
+> As imagens e nomes de produtos utilizados neste projeto foram extraídos publicamente do site da **Farmácias Nissei** (https://www.farmaciasnissei.com.br) com o único propósito de demonstração técnica.
+>
+> Todos os direitos sobre marcas, imagens e conteúdos pertencem exclusivamente à **Farmácias Nissei**.  
+> Este projeto não possui qualquer afiliação comercial, institucional ou publicitária com a empresa.
+
+---
+
+## 👨‍💻 Contato
+
+Desenvolvido por Bruno  
+[GitHub](https://github.com/BrunoGitCoder)  
+[LinkedIn](https://www.linkedin.com/in/bruno-da-silva-54b0b433b/)
