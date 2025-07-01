@@ -112,6 +112,26 @@ ean,codigo,nome,img
 
 ---
 
+## 📈 Resultados do Teste Real
+
+O script foi executado com uma lista de **147 códigos EAN**, coletados previamente para simular um cenário real de uso em farmácia.
+
+### 🔎 Resultado:
+
+- **EANs processados:** 147  
+- **Produtos extraídos com sucesso:** 135  
+- **Divergências detectadas:** 15  
+
+Essas 15 divergências ocorreram porque o produto retornado no site **não correspondia exatamente ao EAN pesquisado**. O script identifica esses casos automaticamente e registra cada um deles no arquivo de saída, mantendo a integridade dos dados.
+
+> ⚠️ O foco do projeto não foi buscar alternativas ou variações desses produtos, apenas identificar se o EAN retornado era exatamente o pesquisado.
+
+> 💡 O problema foi identificado durante os testes e uma possível solução — como iterar sobre todos os resultados retornados na busca — chegou a ser considerada para futuras versões. No entanto, como o projeto foi desenvolvido de forma voluntária e desvinculada da farmácia, essa melhoria foi descartada após o fim da colaboração.
+
+Essa validação de consistência demonstra que o script não apenas automatiza a raspagem, mas também aplica **lógica de control**
+
+---
+
 ## Prints do Sistema
 
 ### 1. Início do aplicativo no celular
@@ -186,12 +206,16 @@ Esses resultados demonstram o impacto positivo da digitalização no controle de
 
 ---
 
-## 📁 Estrutura do Projeto (em construção)
+## 📁 Estrutura do Projeto
 
 ```txt
 📁 pvps-appsheet/
  ┣ 📂 prints/
  ┣ 📂 scripts/
- ┃ ┗ get_product_info.py  # Atualmente sendo reconstruído
- ┗ 📄 README.md
+ ┃ ┣ eam_list.txt                # Lista de EANs para consulta
+ ┃ ┣ get_product_info.py         # Script de automação com Selenium
+ ┃ ┣ produtos.json               # Saída estruturada com os dados extraídos
+ ┃ ┗ produtos_formatado.txt      # Saída formatada para planilhas (CSV-like)
+ ┣ 📄 requirements.txt        # Dependências do script Python
+ ┗ 📄 README.md 
 ```
