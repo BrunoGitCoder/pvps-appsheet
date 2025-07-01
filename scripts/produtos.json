@@ -1,0 +1,869 @@
+[
+    {
+        "eam": "7896004782546",
+        "codigo": "61958",
+        "nome": "Dipirona Ems 1g 10 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/61958_400x400.webp"
+    },
+    {
+        "eam": "7896093001030",
+        "codigo": "16055",
+        "nome": "Vick Vaporub Pomada 12 Gramas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/16055_400x400_VmvkTqu.webp"
+    },
+    {
+        "eam": "7896049540019",
+        "codigo": "28594",
+        "nome": "Talco Tênis Sec Tradicional 100g",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/28594.jpg"
+    },
+    {
+        "eam": "7896016806261",
+        "codigo": "1321",
+        "nome": "Naldecon Noite Caixa 24 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/1321_400x400_09VKYuN.webp"
+    },
+    {
+        "eam": "7896714265933",
+        "codigo": "42951",
+        "nome": "Antigripal Neolefrin 20 comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/6759dc8525a97b001318a9d6_1_400x400.jpg"
+    },
+    {
+        "eam": "7896714273822",
+        "codigo": "53951",
+        "nome": "Antigripal Neolefrin Dia 20 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/6759dc8525a97b001318a9e2_1_400x400.jpg"
+    },
+    {
+        "eam": "7896094918139",
+        "codigo": "53842",
+        "nome": "Benegrip Multi Noite Antigripal 20 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/7896094918139_0_400x400.webp"
+    },
+    {
+        "eam": "7896094918108",
+        "codigo": "53846",
+        "nome": "Antigripal Benegrip Multi Dia 20 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/67477303ef2ec30019041f59_1_400x400.jpg"
+    },
+    {
+        "eam": "7896094905825",
+        "codigo": "23331",
+        "nome": "Benegrip Multi Antigripal Líquido Infantil 240ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/7896094905825_0_400x400.webp"
+    },
+    {
+        "eam": "7891142982100",
+        "codigo": "62380",
+        "nome": "Coristina D Pro 16 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/62380-1_400x400.webp"
+    },
+    {
+        "eam": "7891142982155",
+        "codigo": "62379",
+        "nome": "Coristina D Pro 8 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/62379_400x400.webp"
+    },
+    {
+        "eam": "7896331703443",
+        "codigo": "20560",
+        "nome": "Resfenol 20 Cápsulas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/20560-1_400x400.webp"
+    },
+    {
+        "eam": "7896331701661",
+        "codigo": "20620",
+        "nome": "Resfenol Xarope Laranja 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/20620-1_400x400.webp"
+    },
+    {
+        "eam": "7896472501823",
+        "codigo": "48157",
+        "nome": "Multigrip Antigripal - 20 Cápsulas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/654e835c5df4f40bf8605668_1_400x400.jpg"
+    },
+    {
+        "eam": "7896523226590",
+        "codigo": "56384",
+        "nome": "Cimegripe Dia 12 Cápsulas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/56384_400x400_FBAypmv.webp"
+    },
+    {
+        "eam": "7896523200576",
+        "codigo": "111013",
+        "nome": "Cimegripe 20 Cápsulas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/111013_400x400_CYn3siv.webp"
+    },
+    {
+        "eam": "7896523206295",
+        "codigo": "45944",
+        "nome": "Antigripal Cimegripe Gotas 20ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/62f53ef67b0e0520577ac275_400x400.jpg"
+    },
+    {
+        "eam": "7896094904682",
+        "codigo": "10944",
+        "nome": "Benegrip Antigripal 20 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/7896094904682_0_400x400.webp"
+    },
+    {
+        "eam": "7896094915107",
+        "codigo": "40712",
+        "nome": "Benegrip Antigripal 12 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/7896094915107_0_400x400.webp"
+    },
+    {
+        "eam": "7896862920029",
+        "codigo": "44124",
+        "nome": "Gripinew 20 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/44124.jpg"
+    },
+    {
+        "eam": "7898927111090",
+        "codigo": "22997",
+        "nome": "Oscillococcinum 200K 30 Doses",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/22997_400x400_d9wczJp.webp"
+    },
+    {
+        "eam": "7891058004354",
+        "codigo": "112542",
+        "nome": "Antialérgico Allegra Pediátrico Seringa 6mg/ml 150ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/6792943740a44c00199fe94e_1_400x400.jpg"
+    },
+    {
+        "eam": "7896004777559",
+        "codigo": "62561",
+        "nome": "Cloridrato de Fexofenadina Ems 180mg 10 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/62561_400x400.webp"
+    },
+    {
+        "eam": "7898075317955",
+        "codigo": "54916",
+        "nome": "Anti Alergico Fexx 180Mg 10 Comprimido Revestido",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/54916_400x400.webp"
+    },
+    {
+        "eam": "7896523220291",
+        "codigo": "50758",
+        "nome": "Cloridrato De Fexofenadina Cimed 120mg 10 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/generico.webp"
+    },
+    {
+        "eam": "7896004757353",
+        "codigo": "63174",
+        "nome": "Dicloridrato De Levocetirizina Ems 5mg 10 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/63174_400x400.webp"
+    },
+    {
+        "eam": "7896004768571",
+        "codigo": "144274",
+        "nome": "Allexofedrin 180mg 10 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/144274_400x400.webp"
+    },
+    {
+        "eam": "7896004768588",
+        "codigo": "14424",
+        "nome": "Allexofedrin 120mg 10 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/14424_400x400.webp"
+    },
+    {
+        "eam": "7896094918481",
+        "codigo": "55237",
+        "nome": "Rizi Dicloridrato de Levocetirizina 5mg 10 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/placeholder_medicamento_novo/tarja%20vermelha.webp"
+    },
+    {
+        "eam": "7891317005351",
+        "codigo": "93732",
+        "nome": "Ebastel 10mg Com 10 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/7891317005351_0%7BEAN%7DEBASTEL-10mg-Eurofarma-10-comprimidos.jpg"
+    },
+    {
+        "eam": "7891317000547",
+        "codigo": "5868",
+        "nome": "Ebastel 1mg/ml Xarope Com 60ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/5868_400x400_owTS8Lz.webp"
+    },
+    {
+        "eam": "7891142171719",
+        "codigo": "25023",
+        "nome": "Antialérgico Polaramine Dexclorfeniramina 2mg 20 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/6744939afa561d0019bcca72_1_400x400.jpg"
+    },
+    {
+        "eam": "7891142171733",
+        "codigo": "25031",
+        "nome": "Antialérgico Polaramine Dexclorfeniramina 6mg 12 Drágeas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/6744939afa561d0019bcca74_1_400x400.jpg"
+    },
+    {
+        "eam": "7891142171757",
+        "codigo": "78220",
+        "nome": "Antialérgico Polaramine Dexclorfeniramina 0,4mg/ml Solução Oral Sabor Frutas 120ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/6744939afa561d0019bccaa4_1_400x400.jpg"
+    },
+    {
+        "eam": "7896004711461",
+        "codigo": "133254",
+        "nome": "Maleato De Dexclorfeniramina 2Mg 20 comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/133254.jpg"
+    },
+    {
+        "eam": "7896004711287",
+        "codigo": "76443",
+        "nome": "Maleato De Dexclorfeniramina Ems 2mg 20 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/76443.jpg"
+    },
+    {
+        "eam": "7896004704999",
+        "codigo": "35564",
+        "nome": "Maleato De Dexclorfeniramina Solução Ems Solução Oral 120ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/35564.jpg"
+    },
+    {
+        "eam": "7896523209418",
+        "codigo": "29824",
+        "nome": "Maleato De Dexclorfeniramina Cimed Xarope 0,4mg 120ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/29824_400x400.webp"
+    },
+    {
+        "eam": "7898133131066",
+        "codigo": "58862",
+        "nome": "Xarope Polaradex 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/placeholder_medicamento_novo/tarja%20vermelha.webp"
+    },
+    {
+        "eam": "7896714219301",
+        "codigo": "94821",
+        "nome": "Antialérgico Histamin 20 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/6759dc8525a97b001318a9e5_1_400x400.jpg"
+    },
+    {
+        "eam": "7896523209425",
+        "codigo": "60559",
+        "nome": "Alergomine Líquido 120ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/60559_400x400.webp"
+    },
+    {
+        "eam": "7896006246541",
+        "eam_site": "EAN: 07896006220831",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7896523202822",
+        "codigo": "110429",
+        "nome": "Anti Alérgico Loratamed 10mg 12 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/653fb0624e555b0e547e009a_1_400x400.jpg"
+    },
+    {
+        "eam": "7896523202204",
+        "codigo": "110411",
+        "nome": "Anti Alérgico Loratamed 1 mg/ml Xarope 100Ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/110411_400x400.webp"
+    },
+    {
+        "eam": "7896004704289",
+        "codigo": "60875",
+        "nome": "Cloratadd 10mg 12 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/60875_400x400_fHrtOuP.webp"
+    },
+    {
+        "eam": "7896004703251",
+        "eam_site": "EAN: 07894916372770",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7896181906322",
+        "codigo": "25456",
+        "nome": "Loratadina Biosintética 10mg 12 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/25456.jpg"
+    },
+    {
+        "eam": "7896523227573",
+        "codigo": "60549",
+        "nome": "Loratadina Cimed 10mg 12 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/60549_400x400_lxMectZ.webp"
+    },
+    {
+        "eam": "7896523207704",
+        "codigo": "29819",
+        "nome": "Loratadina Cimed Xarope 1mg/ml 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/29819_400x400.webp"
+    },
+    {
+        "eam": "7896004712673",
+        "codigo": "124024",
+        "nome": "Alergaliv 10mg 15 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/124024.jpg"
+    },
+    {
+        "eam": "7896004712666",
+        "codigo": "12487",
+        "nome": "Alergaliv 1mg Xarope 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/12487.jpg"
+    },
+    {
+        "eam": "7896658018992",
+        "codigo": "18392",
+        "nome": "Esalerg 5mg 10 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/18392-1_400x400.webp"
+    },
+    {
+        "eam": "7896658018862",
+        "codigo": "18390",
+        "nome": "Esalerg Xarope 0,5mg/ml Xarope Com 100ml + Seringa Dosadora",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/18390-1_400x400.webp"
+    },
+    {
+        "eam": "7896658021640",
+        "codigo": "20272",
+        "nome": "Esalerg 1,25mg/ml Solução Oral Gotas 20ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/20272-1_400x400.webp"
+    },
+    {
+        "eam": "7896004725666",
+        "eam_site": "EAN: 07896004789828",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7896004743226",
+        "eam_site": "EAN: 07896004789835",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7896004725673",
+        "eam_site": "EAN: 07896004820798",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7896004743523",
+        "codigo": "51812",
+        "nome": "Deslorana Legrand 5mg 30 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/51812_400x400.webp"
+    },
+    {
+        "eam": "7897337712934",
+        "codigo": "131313",
+        "nome": "Desalex 0,5mg Xarope 100ml + Dosador",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/placeholder_medicamento_novo/tarja%20vermelha.webp"
+    },
+    {
+        "eam": "7896658001901",
+        "codigo": "9597",
+        "nome": "Descongex Plus 12 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/9597-1_400x400.webp"
+    },
+    {
+        "eam": "7896658001918",
+        "codigo": "16576",
+        "nome": "Xarope Decongex Plus Achê 120ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/16576-1_400x400.webp"
+    },
+    {
+        "eam": "7896658001925",
+        "codigo": "17780",
+        "nome": "Decongex Plus Gotas 20ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/17780_400x400.webp"
+    },
+    {
+        "eam": "7896094917002",
+        "codigo": "52559",
+        "nome": "Rinosoro XT 30ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/7896094917002_400x400.jpg"
+    },
+    {
+        "eam": "7897322706658",
+        "codigo": "921225",
+        "nome": "Rinosoro Inf 0,9% Sic Ct 24X1 Fr Pl 50ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/7897322706658_400x400.jpg"
+    },
+    {
+        "eam": "7897322704944",
+        "codigo": "64854",
+        "nome": "Rinosoro 3% Sic Ct 24X1 Fr Pl 50ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/7897322704944_400x400.jpg"
+    },
+    {
+        "eam": "7897322709376",
+        "codigo": "16378",
+        "nome": "Descongestionante Nasal Spray Rinosoro Adulto Jet 0,9% 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/7897322709376_400x400.jpg"
+    },
+    {
+        "eam": "7896094917385",
+        "codigo": "51719",
+        "nome": "Descongestionante Nasal em Spray Rinosoro Infantil Jet 0,9% 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/7896094917385_400x400.jpg"
+    },
+    {
+        "eam": "7896094920033",
+        "codigo": "58750",
+        "nome": "Rinosoro Xt Jet Cloreto De Sódio 0,9% Spray Infantil Descongestionante Nasal 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/7896094920033_400x400.jpg"
+    },
+    {
+        "eam": "7898040325282",
+        "codigo": "27189",
+        "nome": "Maresis Ar Sol Spray 100 ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/27189.jpg"
+    },
+    {
+        "eam": "7898040322540",
+        "codigo": "421524",
+        "nome": "Maresis 0,9% Solução Spray 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/421524_400x400.webp"
+    },
+    {
+        "eam": "7898040326425",
+        "codigo": "56325",
+        "nome": "Maresis HT 2% 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/56325.jpg"
+    },
+    {
+        "eam": "7896094209695",
+        "codigo": "40392",
+        "nome": "Spray Nasal Salsep Jet Kids 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/40392_400x400.webp"
+    },
+    {
+        "eam": "7896094207943",
+        "codigo": "10361",
+        "nome": "Spray Nasal Salsep 360 50ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/10361_400x400.webp"
+    },
+    {
+        "eam": "7896094201514",
+        "codigo": "98095",
+        "nome": "Salsep Spray Nasal 50ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/98095_400x400.webp"
+    },
+    {
+        "eam": "7896094209701",
+        "codigo": "40391",
+        "nome": "Spray Nasal Salsep Jet Adulto 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/40391_400x400.webp"
+    },
+    {
+        "eam": "7896523222783",
+        "eam_site": "EAN: 07891317414221",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7896083412310",
+        "codigo": "64095",
+        "nome": "Hipersinus Spray Herbarium 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/64095_400x400.webp"
+    },
+    {
+        "eam": "7896094921245",
+        "codigo": "60268",
+        "nome": "Blusoro Jet Infantil Jato Suave Nasal 9,0mg/ml 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/60268%20(1)_400x400.jpg"
+    },
+    {
+        "eam": "7896658035944",
+        "codigo": "55853",
+        "nome": "Sorine Ssc Jet Baby 0,9% 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/55853-1_400x400.webp"
+    },
+    {
+        "eam": "7896658023224",
+        "codigo": "19170",
+        "nome": "Descongestionante Nasal Spray Sorine SSC 0,9% 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/19170-1_400x400.webp"
+    },
+    {
+        "eam": "7896658020315",
+        "codigo": "62452",
+        "nome": "Sorine SSC 0,9mg Achê 50ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/62452-1_400x400.webp"
+    },
+    {
+        "eam": "7896658012327",
+        "codigo": "1849",
+        "nome": "Sorine Nebulizador 0,9 45ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/1849-1_400x400.webp"
+    },
+    {
+        "eam": "7896658012303",
+        "codigo": "569781",
+        "nome": "Sorine Solução Nasal Baby 30ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/569781-1_400x400.webp"
+    },
+    {
+        "eam": "7898074616943",
+        "codigo": "27126",
+        "nome": "Fluimucil 11,5 mg/mL Solução Nasal 20mL",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/66f70153956ec40019a62c19_0_400x400.jpg"
+    },
+    {
+        "eam": "7896112403326",
+        "codigo": "61667",
+        "nome": "Spray Nasal Hidratante Sinustrat 0,04% 30ml 1 Unidade",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/65044742e39e480bd44db743_1_400x400.jpg"
+    },
+    {
+        "eam": "7896082900276",
+        "codigo": "121038",
+        "nome": "Solução Descongestionante Nasal Sinustrat 30ml 1 Unidade",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/65044742e39e480bd44db741_1_400x400.jpg"
+    },
+    {
+        "eam": "7896082900337",
+        "codigo": "32912",
+        "nome": "Spray Nasal Forte Sinustrat 9,0mg 10ml 1 Unidade",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/650af88d7c961a0c1670273c_1_400x400.jpg"
+    },
+    {
+        "eam": "7896094208407",
+        "codigo": "26399",
+        "nome": "Maxidrate 6mg/g Gel Nasal 30g",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/26399_400x400.webp"
+    },
+    {
+        "eam": "7896026120555",
+        "codigo": "79442",
+        "nome": "Solução Descongestionante para Inalação Penetro 45ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/79442_400x400_bNtilyZ.webp"
+    },
+    {
+        "eam": "7500435177450",
+        "codigo": "59331",
+        "nome": "Spray Nasal Vick Primeira Proteção 15ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/59331.jpg"
+    },
+    {
+        "eam": "78911222",
+        "eam_site": "EAN: 07896093001030",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7590002032817",
+        "codigo": "23550",
+        "nome": "Vick Vaporub Pomada 30 gramas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/23550%20.jpg"
+    },
+    {
+        "eam": "7590002012468",
+        "codigo": "16071",
+        "nome": "Pomada Vick Vaporub Unguento 50 Gramas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/16071_400x400_AAD6syu.webp"
+    },
+    {
+        "eam": "7501001168797",
+        "codigo": "53196",
+        "nome": "Vick BabyRub Bálsamo Pomada para Massagem 50 Gramas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/53196_400x400_1MqPC3u.webp"
+    },
+    {
+        "eam": "7898430193484",
+        "codigo": "56722",
+        "nome": "Descongestionante Nasal Nasoar 240ml + 30 Sachês",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/56722.jpg"
+    },
+    {
+        "eam": "7898430193477",
+        "codigo": "56720",
+        "nome": "Nasoar Refil 30 Sachês",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/56720.jpg"
+    },
+    {
+        "eam": "7898430194283",
+        "codigo": "65663",
+        "nome": "Nasoar Infantil 15 Sachês Refil",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/65663_400x400.webp"
+    },
+    {
+        "eam": "7896026170567",
+        "codigo": "29629",
+        "nome": "Malvona Solução Tópica 200ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/29629_400x400.webp"
+    },
+    {
+        "eam": "7500435182331",
+        "eam_site": "EAN: 07891317414221",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7896007552108",
+        "codigo": "61001",
+        "nome": "Cueca Descartável Plenitud Man X/XG 8 Unidades",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/61001_400x400.jpg"
+    },
+    {
+        "eam": "7896012880272",
+        "codigo": "59695",
+        "nome": "Fralda Geriátrica Bigfral Plus Regular GD 7 Unidades",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/59695_400x400.jpg"
+    },
+    {
+        "eam": "7896007547173",
+        "codigo": "22937",
+        "nome": "Roupa Íntima Plenitud Plus Para Incontinência G/XG 8 Unidades",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/22937-1_400x400.webp"
+    },
+    {
+        "eam": "7899898601207",
+        "eam_site": "EAN: 07891317414221",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7891000432716",
+        "codigo": "61144",
+        "nome": "Suplemento Alimentar Líquido Nutren Protein Coco 260ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/61144-1_400x400.webp"
+    },
+    {
+        "eam": "7897947615106",
+        "codigo": "58024",
+        "nome": "Multivitaminico Lavitan Colágeno Tipo II Com 30 Cápsulas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/58024-1_400x400.webp"
+    },
+    {
+        "eam": "7898687732160",
+        "codigo": "61362",
+        "nome": "Suplemento Alimentar Equaliv Zinco Quelato 29,59mg 30 Cápsulas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/placeholder_medicamento_novo/tarja%20vermelha.webp"
+    },
+    {
+        "eam": "7897947612600",
+        "codigo": "29379",
+        "nome": "Lavitan Ômega 3 Mais Com 90 Cápsulas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/29379-1_400x400.webp"
+    },
+    {
+        "eam": "7898655576543",
+        "codigo": "58438",
+        "nome": "Zinco Quelato Health Labs 60 Cápsulas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/58438%20(1)_400x400.jpg"
+    },
+    {
+        "eam": "7898953078916",
+        "codigo": "59310",
+        "nome": "SILICIO ORGANICO 180MG 30CAPS 0H2",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/placeholder_medicamento_novo/tarja%20vermelha.webp"
+    },
+    {
+        "eam": "7896227800812",
+        "codigo": "55004",
+        "nome": "Adesivo Salonpas Grande com 2un",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/55004.jpg"
+    },
+    {
+        "eam": "7896094921344",
+        "codigo": "354564",
+        "nome": "Analgésico Buscofem Ibuprofeno 400mg Blister 10 Cápsulas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/6748d00ec14133001477ffe2_1_400x400.jpg"
+    },
+    {
+        "eam": "7896004714714",
+        "codigo": "60014",
+        "nome": "Paralgen 750mg Com 20 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/60014.jpg"
+    },
+    {
+        "eam": "7898495607889",
+        "codigo": "61102",
+        "nome": "Doriless 12 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/61102_400x400.jpg"
+    },
+    {
+        "eam": "7891045043588",
+        "eam_site": "EAN: 07896009498961",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7898560661563",
+        "codigo": "5249",
+        "nome": "Reparil Gel Escina + Salicilato de Dietilamônio 30g",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/5249%20(1)_400x400.webp"
+    },
+    {
+        "eam": "7896094999992",
+        "codigo": "13001",
+        "nome": "Neosaldina Dipirona 300Mg + Mucato de Isometepteno 30Mg + Cafeína 30Mg 30 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/13001%20(1)_400x400.jpg_400x400.webp"
+    },
+    {
+        "eam": "7891000334492",
+        "codigo": "62352",
+        "nome": "Kit Complemento Alimentar Nutren Senior Baunilha 1,48kg Ganhe 30% de Desconto na Segunda Lata",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/62352_400x400_hQAxuUy.webp"
+    },
+    {
+        "eam": "7896230311343",
+        "codigo": "210259",
+        "nome": "Creme Preventivo de Assaduras Geriaderm 120g",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/GERIADERM-POM-DERM-120G_400x400.webp"
+    },
+    {
+        "eam": "7896331706857",
+        "codigo": "44225",
+        "nome": "Suplemento Alimentar em Pó SupraSenior Chocolate 400g",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/44225.jpg"
+    },
+    {
+        "eam": "7896331706864",
+        "codigo": "44224",
+        "nome": "Suplemento Alimentar em Pó SupraSenior Baunilha 400g",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/44224.jpg"
+    },
+    {
+        "eam": "7891000234105",
+        "codigo": "12001",
+        "nome": "Complemento Alimentar Nutren Active Chocolate 400g",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/12001_400x400.webp"
+    },
+    {
+        "eam": "7891000417560",
+        "codigo": "60596",
+        "nome": "Complemento Alimentar Nutren Sênior Zero Lactose Baunilha 740g",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/60596-1_400x400.webp"
+    },
+    {
+        "eam": "7891158105210",
+        "codigo": "5764",
+        "nome": "Suplemento Adulto Ensure Pó Sabor Banana 850g",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/291828-800-auto_400x400.webp"
+    },
+    {
+        "eam": "7891158105234",
+        "codigo": "8314",
+        "nome": "Suplemento Adulto Ensure Pó Sabor Morango 850g",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/8314_400x400_Y2JmDG1.webp"
+    },
+    {
+        "eam": "7897947606913",
+        "codigo": "16102",
+        "nome": "Ômega 3 1000mg Lavitan 60 Cápsulas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/16102-1_400x400.webp"
+    },
+    {
+        "eam": "7898655575904",
+        "codigo": "58424",
+        "nome": "Óleo de Cártamo Health Labs 1000mg 60 Cápsulas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/58424_400x400.jpg"
+    },
+    {
+        "eam": "7896023792571",
+        "codigo": "17718",
+        "nome": "Óleo de Cártamo 1000mg 90 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/EQC-0009-289_zoom1_400x400.webp"
+    },
+    {
+        "eam": "7898655576451",
+        "codigo": "58429",
+        "nome": "Picolinato de Cromo Health Labs 250mcg 90 Tabletes",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/58429_400x400.jpg"
+    },
+    {
+        "eam": "7891000320457",
+        "codigo": "57231",
+        "nome": "Complemento Alimentar Nutren Sênior Sem Sabor Zero Lactose 740g",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/57231-1_400x400.webp"
+    },
+    {
+        "eam": "7896006218593",
+        "eam_site": "EAN: 07896006201021",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7896004717999",
+        "codigo": "106120",
+        "nome": "Gerovital EMS 60 Cápsulas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/106120_400x400_774CSSd.webp"
+    },
+    {
+        "eam": "7894650939833",
+        "codigo": "62221",
+        "nome": "Álcool Gel Lysoform Higienizador de Mãos 70° INPM 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/62221_400x400.webp"
+    },
+    {
+        "eam": "7899674028426",
+        "eam_site": "EAN: 07899674030450",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7896614804843",
+        "codigo": "54099",
+        "nome": "Álcool Gel Antisséptico Clive 60ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/54099_400x400.webp"
+    },
+    {
+        "eam": "7894650013373",
+        "codigo": "57749",
+        "nome": "Repelente Loção Off! Active Longa Duração Squeeze 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/57749-1_400x400.webp"
+    },
+    {
+        "eam": "7897947600577",
+        "codigo": "61271",
+        "nome": "Repelente Xô Inseto Baby Icaridina 100ml",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/682746ed6555f200191434c7_1_400x400.jpg"
+    },
+    {
+        "eam": "7898962943069",
+        "codigo": "64893",
+        "nome": "Kit Dermodex Prevent Creme para Prevenção de Assaduras 3em1 2 Unidades",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/64893-1%20(1)_400x400.webp"
+    },
+    {
+        "eam": "7891010249922",
+        "codigo": "458555",
+        "nome": "Creme Preventivo de Assaduras Hipoglós Original 135g",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/458555_20240402_0.jpg"
+    },
+    {
+        "eam": "7500435145244",
+        "codigo": "55513",
+        "nome": "Lenço Umedecido Pampers Aloe Vera 48 Unidades",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/55513_1.jpg"
+    },
+    {
+        "eam": "7500435172714",
+        "codigo": "58841",
+        "nome": "Lenço Umedecido Pampers Higiene Completa 48 Unidades",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/58841%20.jpg"
+    },
+    {
+        "eam": "7500435157520",
+        "codigo": "58203",
+        "nome": "Fralda Pampers Splash Baby G 11 Unidades",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/58203_400x400.webp"
+    },
+    {
+        "eam": "7896007551088",
+        "codigo": "255217",
+        "nome": "Fralda Huggies Little Swimmers M/G - 10 Fraldas",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/255217_20241202_0.jpg"
+    },
+    {
+        "eam": "7896007548415",
+        "eam_site": "EAN: 07891317414221",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7898662061247",
+        "codigo": "55519",
+        "nome": "Fita Adesiva Protetora para Pés Cuidmais 4,5m",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/55519_400x400_pHyeJJe.webp"
+    },
+    {
+        "eam": "7896331707199",
+        "eam_site": "EAN: 07896331707205",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7891045040686",
+        "eam_site": "EAN: 07891317414221",
+        "erro": "EAM diferente do que está registrado no site"
+    },
+    {
+        "eam": "7896637031868",
+        "codigo": "56609",
+        "nome": "Suplemento Alimentar Attivs MSM Attivs 60 Comprimidos",
+        "imagem": "https://farmaciasnissei.com.br/media/produtos/56609_400x400.webp"
+    }
+]
