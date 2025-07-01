@@ -45,7 +45,10 @@ Como complemento, desenvolvi um script em Python com Selenium que, a partir de u
 - Nome do produto
 - Link da imagem do produto
 
-Essas informações eram integradas à planilha para agilizar o processo de cadastro e reduzir erros.
+> Essa solução foi necessária porque eu não tinha acesso ao banco de dados oficial da farmácia, o que me levou a buscar uma alternativa para alimentar meu próprio banco de forma automatizada.
+> Com isso, consegui agilizar o cadastro dos produtos no sistema mesmo sem integração direta com a base corporativa.
+
+Essas informações eram integradas à planilha para facilitar o processo de registro e reduzir erros no preenchimento manual.
 
 ---
 
@@ -64,7 +67,7 @@ Essas informações eram integradas à planilha para agilizar o processo de cada
   - `produtos_formatado.txt` (CSV) para fácil importação no Excel/Sheets
 
 ### 📂 Arquivo de entrada:
-**ean_list.txt**
+`ean_list.txt`
 ```
 7896004782546
 7896093001030
@@ -88,27 +91,22 @@ Essas informações eram integradas à planilha para agilizar o processo de cada
 
 #### 2. TXT (`produtos_formatado.txt`)
 ```
-ean,codigo,nome,img
-7896004782546,12345,Dipirona Sódica 500mg 20 Comprimidos,https://site.com/imagem.jpg
-7896093001030,67890,Paracetamol 750mg 20 Comprimidos,https://site.com/imagem2.jpg
+ean;codigo;nome;img
+7896004782546;12345;Dipirona Sódica 500mg 20 Comprimidos;https://site.com/imagem.jpg
+7896093001030;67890;Paracetamol 750mg 20 Comprimidos;https://site.com/imagem2.jpg
 ```
-
-> [!WARNING]
-> O script original foi desenvolvido por mim, mas foi perdido durante a formatação do meu notebook, pois ainda não havia feito backup.  
-> Estou atualmente reconstruindo o código com base nas funcionalidades que implementei anteriormente.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [AppSheet](https://www.appsheet.com/)
-- Google Sheets (fórmulas, validação de dados, formatação condicional)
-- Scanner de código de barras nativo do AppSheet
-- Python:
-  - `selenium`
+- **AppSheet + Google Sheets** - Automação no controle de vencimentos
+
+- **Python + Selenium** - Raspagem de dados via WebDriver
+
+- **Bibliotecas utilizadas no script:**
+  - `selenium`  
   - `json`
-  - `os`
-  - `time`
 
 ---
 
