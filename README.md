@@ -234,3 +234,11 @@ Esses resultados demonstram o impacto positivo da digitalização no controle de
 Desenvolvido por Bruno  
 [GitHub](https://github.com/BrunoGitCoder)  
 [LinkedIn](https://www.linkedin.com/in/bruno-da-silva-54b0b433b/)
+
+---
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT.  
+Confira o arquivo [LICENSE.md](./LICENSE.md) para mais informações.
+
